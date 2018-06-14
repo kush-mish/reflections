@@ -8,4 +8,7 @@ Describe the differences between forks, clones, and branches. When would you use
 ~ Forks are used to clone a repository of some other person, to your account. Cloning is used to copy the exact repository to your local repository with the commit log. Branches are used to give progress in different directions.Branches can be merged to one another.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-~ Copying last known state of the remote can be useful because then it can be merged to the local master branch at any moment.  
+~ Copying last known state of the remote can be useful because then it can be merged to the local master branch at any moment.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+~ Sending files containing codes or images of codes. Suggestions of code and working on different branches would be harder, but since I would then not need to know how to use git, that would be the easier part.  
